@@ -40,7 +40,7 @@
 
 ### Contacts
 
-- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/ali-burzhi/)
+- 💼 LinkedIn: [link](https://www.linkedin.com/in/ali-burzhi/)
 
 
 <!--
