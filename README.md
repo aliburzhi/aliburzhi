@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+Frontend Developer based in Poland.
+I mostly working on frontend - TypeScript, Next, React, Tailwind. 🔭
+
+#### Tools & Tech 💬
+<ul>
+  <li>TypeScript</li>
+  <li>Next.js</li>
+  <li>React</li>
+  <li>Node.js</li>
+</ul>
+
+
 <!--
 **aliburzhi/aliburzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
