@@ -1,6 +1,6 @@
 <!-- Banner / Title -->
 <div align="center">
-  <img src="https://drive.google.com/file/d/1rbQu3r8gCzrFSu_rG74NbSVCoG-y4ZrW/view?usp=sharing" alt="My banner" />
+  <img src="https://drive.google.com/uc?id=1rbQu3r8gCzrFSu_rG74NbSVCoG-y4ZrW&export=download" alt="My banner" />
   <!-- Или полная прямая: https://drive.google.com/uc?id=ТВОЙ_FILE_ID&export=download -->
 </div>
 
