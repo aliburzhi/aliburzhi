@@ -15,9 +15,9 @@
 
 ### Tech stack
 
-- **Frontend:** React, Next.js, Redux Toolkit / RTK Query
+- **Frontend:** React, Next.js, TypeScript
 - **Styling:** Tailwind CSS, Styled Components, CSS Modules
-- **Tools:** Git, GitHub, VS Code, REST APIs, Figma
+- **Tools:** Git, GitHub, Figma
 - **Other:** Python (basics), testing libraries (Jest / React Testing Library)
 
 ---
