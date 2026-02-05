@@ -1,15 +1,46 @@
-## Hi there 👋
+<!-- Banner / Title -->
+<h1 align="center">Hi, I'm Ali 👋</h1>
+<h3 align="center">Frontend Developer • React / Next.js • TypeScript</h3>
 
-Frontend Developer based in Poland.
-I mostly working on frontend - TypeScript, Next, React, Tailwind. 🔭
+---
 
-#### Tools & Tech 💬
-<ul>
-  <li>TypeScript</li>
-  <li>Next.js</li>
-  <li>React</li>
-  <li>Node.js</li>
-</ul>
+### About me
+
+- 💼 Building web apps with **React**, **Next.js** and **TypeScript**
+- 🧪 Interested in trading & building tools around **Forex** 
+- 🎓 Exploring Software Engineering & AI topics, including a master-level online program
+- 🐍 Learning **Python** basics in my free time
+
+---
+
+### Tech stack
+
+- **Frontend:** React, Next.js, Redux Toolkit / RTK Query
+- **Styling:** Tailwind CSS, Styled Components, CSS Modules
+- **Tools:** Git, GitHub, VS Code, REST APIs, Figma
+- **Other:** Python (basics), testing libraries (Jest / React Testing Library)
+
+---
+
+### What I’m working on
+
+- 🚀 Production web apps as a frontend dev for company.
+- 📊 Side projects around trading dashboards, backtesting helpers, and data visualization
+- 🧠 Improving architecture skills, performance optimizations, and clean UI/UX
+
+---
+
+### Highlights
+
+- ✅ 2.5+ years of commercial frontend experience (React / Next.js / TS)
+- 🔍 Experience with B2B platforms, dashboards, and complex forms
+- 🌐 Comfortable with remote work and distributed teams
+
+---
+
+### Contacts
+
+- 💼 LinkedIn: [linkedin](https://www.linkedin.com/in/ali-burzhi/)
 
 
 <!--
